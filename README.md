@@ -1,14 +1,26 @@
-# Project
+# 🚀 Open Hack Codespace
 
-> This repo has been populated by an initial template to help get you started. Please
-> make sure to update the content to build a great experience for community-building.
+Welcome to the **Open Hack**!  
+This repository gives you a ready-to-use development environment with all dependencies preinstalled in **GitHub Codespaces**.  
+You’ll use it to build and experiment with AI agents using the **Azure AI Foundry Agent Service**.
 
-As the maintainer of this project, please make a few updates:
+---
 
-- Improving this README.MD file to provide a great experience
-- Updating SUPPORT.MD with content about this project's support experience
-- Understanding the security reporting process in SECURITY.MD
-- Remove this section from the README
+## Quickstart
+
+1. **Open Codespace**
+   - Click the **Code** button (green) in this repo.
+   - Select **Open with Codespaces → New Codespace**.
+   - Wait a few moments while the environment boots.
+
+2. **Verify Setup**
+   - A terminal opens automatically at the `workshop` folder.
+   - Run:
+     ```bash
+     python --version
+     az --version
+     ```
+   - You should see Python 3.13+ and the Azure CLI.
 
 ## Contributing
 
